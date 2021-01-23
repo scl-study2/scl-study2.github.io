@@ -162,6 +162,7 @@ function make_slides(f) {
         "orange" : $('input[name="orange"]:checked').val(),
         "both" : $('input[name="both"]:checked').val(),
         "bothOrange" : $('input[name="bothOrange"]:checked').val(),
+        "all": $('input[name="all"]:checked').val(),
         "bp" : $('input[name="bp"]:checked').val(),
         "pb" : $('input[name="pb"]:checked').val(),
         "ob" : $('input[name="ob"]:checked').val()
